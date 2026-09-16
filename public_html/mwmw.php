@@ -1,0 +1,1 @@
+<?php require_once __DIR__ . '/../lib/helpers.php'; redirect('/start?mode=mwmw');
