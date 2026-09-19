@@ -1,0 +1,13 @@
+# База данных (не перезаписывается из репозитория)
+data/app.sqlite
+
+# Локальные настройки
+config.php
+
+# Сгенерированные картинки
+public/uploads/cards/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
